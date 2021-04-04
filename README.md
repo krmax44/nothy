@@ -1,5 +1,7 @@
 # Nothing
 
+[![npm version](https://img.shields.io/npm/v/nothy)](https://www.npmjs.com/package/nothy)
+
 Just do nothing. 
 
 ## Features
