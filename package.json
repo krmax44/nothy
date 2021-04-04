@@ -6,8 +6,5 @@
   "main": "index.js",
   "module": "index.esm.js",
   "types": "index.d.ts",
-  "license": "MIT",
-  "devDependencies": {
-    "np": "^7.4.0"
-  }
+  "license": "MIT"
 }
