@@ -1,0 +1,13 @@
+{
+  "name": "nothy",
+  "type": "commonjs",
+  "description": "Just do nothing.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^7.4.0"
+  }
+}
